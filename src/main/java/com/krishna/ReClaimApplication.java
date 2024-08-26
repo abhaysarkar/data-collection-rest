@@ -8,6 +8,7 @@ public class ReClaimApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(ReClaimApplication.class, args);
+		System.out.println("jai shree krishna");
 	}
 
 }
